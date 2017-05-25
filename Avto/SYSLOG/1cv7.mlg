@@ -1,0 +1,534 @@
+20160311;19:46:12;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер DESKTOP-6JOU4Q2(m);;
+20160311;20:23:19;;C;Restruct;RestructStart;1;;;
+20160311;20:23:19;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160311;20:23:22;;C;Restruct;RestructAnalys;3;Новый справочник - Avto.;;
+20160311;20:23:22;;C;Restruct;RestructStatus;3;Обработка справочника:  Avto;;
+20160311;20:23:25;;C;Restruct;RestructCopy;1;;;
+20160311;20:23:26;;C;Restruct;RestructAcptEnd;1;;;
+20160311;20:31:37;;C;Restruct;RestructStart;1;;;
+20160311;20:31:37;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160311;20:31:37;;C;Restruct;RestructAnalys;3;Новый справочник - Легковые_авто.;;
+20160311;20:31:37;;C;Restruct;RestructStatus;3;Обработка справочника:  Легковые_авто;;
+20160311;20:31:38;;C;Restruct;RestructAnalys;3;Справочник Avto - удален.;;
+20160311;20:31:39;;C;Restruct;RestructCopy;1;;;
+20160311;20:31:41;;C;Restruct;RestructAcptEnd;1;;;
+20160311;20:31:41;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160311;20:31:53;;E;Refs;RefNew;2;;B/46/1;Легковые_авто     1
+20160311;20:31:59;;E;Sys;CloseSession;0;;;
+20160311;20:32:11;;C;Restruct;RestructStart;1;;;
+20160311;20:32:11;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160311;20:32:11;;C;Restruct;RestructStatus;3;Изменения в метаданных не вызвали изменений данных.;;
+20160311;20:32:12;;C;Restruct;RestructCopy;1;;;
+20160311;20:32:14;;C;Restruct;RestructAcptEnd;1;;;
+20160311;20:32:14;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160311;20:32:39;;E;Refs;RefWrite;2;;B/46/1;Легковые_авто     1
+20160311;20:32:46;;E;Refs;RefWrite;2;;B/46/1;Легковые_авто     1
+20160311;20:32:53;;E;Refs;RefWrite;2;;B/46/1;Легковые_авто     1
+20160311;20:32:53;;E;Sys;CloseSession;0;;;
+20160311;20:32:56;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160311;20:32:59;;E;Sys;CloseSession;0;;;
+20160311;20:33:30;;C;Restruct;RestructStart;1;;;
+20160311;20:33:30;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160311;20:33:31;;C;Restruct;RestructStatus;3;Изменения в метаданных не вызвали изменений данных.;;
+20160311;20:33:32;;C;Restruct;RestructCopy;1;;;
+20160311;20:33:34;;C;Restruct;RestructAcptEnd;1;;;
+20160311;20:33:34;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160311;20:33:49;;E;Sys;CloseSession;0;;;
+20160311;20:48:44;;C;Restruct;RestructStart;1;;;
+20160311;20:48:44;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160311;20:48:44;;C;Restruct;RestructAnalys;3;Справочник Легковые_авто, реквизит Марка - изменен тип.;;
+20160311;20:48:44;;C;Restruct;RestructStatus;3;Обработка справочника:  Легковые_авто;;
+20160311;20:48:44;;C;Restruct;RestructWarn;4;Частичная потеря информации при преобразовании значений. Марка/Марка;;
+20160311;20:48:47;;C;Restruct;RestructCopy;1;;;
+20160311;20:48:49;;C;Restruct;RestructAcptEnd;1;;;
+20160311;20:48:49;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160311;20:50:07;;E;Sys;CloseSession;0;;;
+20160311;20:50:08;;C;Sys;CloseSession;0;;;
+20160312;09:05:59;;E;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;10:12:05;;E;Sys;CloseSession;0;;;
+20160312;10:12:13;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;10:26:12;;C;Restruct;RestructStart;1;;;
+20160312;10:26:12;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;10:26:12;;C;Restruct;RestructAnalys;3;Новая константа - Название_организации.;;
+20160312;10:26:12;;C;Restruct;RestructAnalys;3;Новая константа - УНП.;;
+20160312;10:26:12;;C;Restruct;RestructAnalys;3;Новая константа - Адрес_банка.;;
+20160312;10:26:12;;C;Restruct;RestructAnalys;3;Новая константа - Основной_рс.;;
+20160312;10:26:12;;C;Restruct;RestructAnalys;3;Справочник Легковые_авто - новый реквизит - vin.;;
+20160312;10:26:12;;C;Restruct;RestructAnalys;3;Справочник Легковые_авто - новый реквизит - Стоимость_авто.;;
+20160312;10:26:12;;C;Restruct;RestructStatus;3;Обработка справочника:  Легковые_авто;;
+20160312;10:26:13;;C;Restruct;RestructAnalys;3;Новый справочник - ГПАвто.;;
+20160312;10:26:13;;C;Restruct;RestructStatus;3;Обработка справочника:  ГПАвто;;
+20160312;10:26:13;;C;Restruct;RestructAnalys;3;Новый справочник - Грузовые_авто.;;
+20160312;10:26:13;;C;Restruct;RestructStatus;3;Обработка справочника:  Грузовые_авто;;
+20160312;10:26:15;;C;Restruct;RestructCopy;1;;;
+20160312;10:26:17;;C;Restruct;RestructAcptEnd;1;;;
+20160312;10:26:17;;C;Sys;CloseSession;0;;;
+20160312;12:01:35;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;13:04:37;;C;Sys;CloseSession;0;;;
+20160312;15:02:00;;E;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;15:02:03;;E;Sys;CloseSession;0;;;
+20160312;15:02:05;;E;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;15:02:17;;E;Sys;CloseSession;0;;;
+20160312;15:02:20;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;15:06:37;;C;Restruct;RestructStart;1;;;
+20160312;15:06:37;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;15:06:37;;C;Restruct;RestructAnalys;3;Новый справочник - Грузовые_авто.;;
+20160312;15:06:37;;C;Restruct;RestructStatus;3;Обработка справочника:  Грузовые_авто;;
+20160312;15:06:37;;C;Restruct;RestructAnalys;3;Справочник ГПАвто - удален.;;
+20160312;15:06:37;;C;Restruct;RestructAnalys;3;Справочник Грузовые_авто - удален.;;
+20160312;15:06:39;;C;Restruct;RestructCopy;1;;;
+20160312;15:06:40;;C;Restruct;RestructAcptEnd;1;;;
+20160312;15:08:49;;C;Restruct;RestructStart;1;;;
+20160312;15:08:49;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;15:08:49;;C;Restruct;RestructAnalys;3;Справочник Грузовые_авто, реквизит Тип_кузова - изменен тип.;;
+20160312;15:08:49;;C;Restruct;RestructStatus;3;Обработка справочника:  Грузовые_авто;;
+20160312;15:08:49;;C;Restruct;RestructAnalys;3;Новый справочник - ГПАвто.;;
+20160312;15:08:49;;C;Restruct;RestructStatus;3;Обработка справочника:  ГПАвто;;
+20160312;15:08:51;;C;Restruct;RestructCopy;1;;;
+20160312;15:08:52;;C;Restruct;RestructAcptEnd;1;;;
+20160312;16:22:26;;C;Restruct;RestructStart;1;;;
+20160312;16:22:26;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;16:22:27;;C;Restruct;RestructAnalys;3;Справочник Грузовые_авто, реквизит Марка - изменен тип.;;
+20160312;16:22:27;;C;Restruct;RestructStatus;3;Обработка справочника:  Грузовые_авто;;
+20160312;16:22:27;;C;Restruct;RestructAnalys;3;Справочник ГПАвто, реквизит Марка - изменен тип.;;
+20160312;16:22:27;;C;Restruct;RestructAnalys;3;Справочник ГПАвто, реквизит Тип_прицепа - удален.;;
+20160312;16:22:27;;C;Restruct;RestructStatus;3;Обработка справочника:  ГПАвто;;
+20160312;16:22:29;;C;Restruct;RestructCopy;1;;;
+20160312;16:22:30;;C;Restruct;RestructAcptEnd;1;;;
+20160312;16:22:30;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;16:22:54;;E;Consts;ConstWrite;2;Название_организации;;
+20160312;16:23:03;;E;Consts;ConstWrite;2;Название_организации;;
+20160312;16:23:35;;E;Consts;ConstWrite;2;УНП;;
+20160312;16:24:16;;E;Consts;ConstWrite;2;Адрес_банка;;
+20160312;16:24:22;;E;Consts;ConstWrite;2;Адрес_банка;;
+20160312;16:24:24;;E;Sys;CloseSession;0;;;
+20160312;16:24:49;;C;Restruct;RestructStart;1;;;
+20160312;16:24:49;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;16:24:49;;C;Restruct;RestructStatus;3;Изменения в метаданных не вызвали изменений данных.;;
+20160312;16:24:50;;C;Restruct;RestructCopy;1;;;
+20160312;16:24:51;;C;Restruct;RestructAcptEnd;1;;;
+20160312;16:24:52;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;16:25:12;;E;Consts;ConstWrite;2;Адрес_банка;;
+20160312;16:26:15;;E;Consts;ConstWrite;2;Основной_рс;;
+20160312;16:26:21;;E;Sys;CloseSession;0;;;
+20160312;16:26:24;;C;Sys;CloseSession;0;;;
+20160312;16:26:41;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;16:28:06;;C;Restruct;RestructStart;1;;;
+20160312;16:28:06;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;16:28:06;;C;Restruct;RestructAnalys;3;Новая константа - FAX.;;
+20160312;16:28:06;;C;Restruct;RestructAnalys;3;Новая константа - Телефон.;;
+20160312;16:28:08;;C;Restruct;RestructCopy;1;;;
+20160312;16:28:09;;C;Restruct;RestructAcptEnd;1;;;
+20160312;16:32:57;;C;Restruct;RestructStart;1;;;
+20160312;16:32:57;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;16:32:57;;C;Restruct;RestructStatus;3;Изменения в метаданных не вызвали изменений данных.;;
+20160312;16:32:58;;C;Restruct;RestructCopy;1;;;
+20160312;16:33:00;;C;Restruct;RestructAcptEnd;1;;;
+20160312;16:33:00;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;16:33:18;;E;Sys;CloseSession;0;;;
+20160312;16:33:39;;C;Restruct;RestructSaveMD;3;;;
+20160312;16:33:39;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;16:34:55;;E;Refs;RefNew;2;;B/100/1;Грузовные авто     1
+20160312;16:35:25;;E;Sys;CloseSession;0;;;
+20160312;16:43:21;;C;Restruct;RestructSaveMD;3;;;
+20160312;16:45:16;;C;Restruct;RestructStart;1;;;
+20160312;16:45:16;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;16:45:16;;C;Restruct;RestructStatus;3;Изменения в метаданных не вызвали изменений данных.;;
+20160312;16:45:17;;C;Restruct;RestructCopy;1;;;
+20160312;16:45:18;;C;Restruct;RestructAcptEnd;1;;;
+20160312;16:45:19;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;16:45:36;;E;Sys;CloseSession;0;;;
+20160312;16:46:02;;C;Restruct;RestructSaveMD;3;;;
+20160312;16:46:02;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;16:46:11;;E;Sys;CloseSession;0;;;
+20160312;16:56:43;;C;Restruct;RestructStart;1;;;
+20160312;16:56:43;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;16:56:43;;C;Restruct;RestructStatus;3;Изменения в метаданных не вызвали изменений данных.;;
+20160312;16:56:44;;C;Restruct;RestructCopy;1;;;
+20160312;16:56:46;;C;Restruct;RestructAcptEnd;1;;;
+20160312;16:56:46;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;16:56:56;;E;Consts;ConstWrite;2;FAX;;
+20160312;16:57:05;;E;Consts;ConstWrite;2;Телефон;;
+20160312;16:57:10;;E;Sys;CloseSession;0;;;
+20160312;16:57:11;;C;Sys;CloseSession;0;;;
+20160312;17:06:00;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;17:09:38;;C;Restruct;RestructStart;1;;;
+20160312;17:09:38;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;17:09:38;;C;Restruct;RestructStatus;3;Обработка журнала документов.;;
+20160312;17:09:38;;C;Restruct;RestructAnalys;3;Новый документ - Операция.;;
+20160312;17:09:38;;C;Restruct;RestructStatus;3;Обработка  документа: ... Операция;;
+20160312;17:09:38;;C;Restruct;RestructAnalys;3;Новый план счетов - ПланСчето;;
+20160312;17:15:11;;C;Restruct;RestructCopy;1;;;
+20160312;17:15:13;;C;Restruct;RestructAcptEnd;1;;;
+20160312;17:25:06;;C;Restruct;RestructStart;1;;;
+20160312;17:25:06;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;17:25:06;;C;Restruct;RestructAnalys;3;Новый справочник - Клиенты.;;
+20160312;17:25:06;;C;Restruct;RestructStatus;3;Обработка справочника:  Клиенты;;
+20160312;17:25:06;;C;Restruct;RestructAnalys;3;Изменен признак проведения документа Операция.;;
+20160312;17:25:06;;C;Restruct;RestructStatus;3;Обработка журнала документов.;;
+20160312;17:25:07;;C;Restruct;RestructStatus;3;Обработка  документа: Операция;;
+20160312;17:25:08;;C;Restruct;RestructCopy;1;;;
+20160312;17:25:10;;C;Restruct;RestructAcptEnd;1;;;
+20160312;17:25:10;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;17:25:19;;E;Refs;RefNew;2;;B/159/1;Клиенты     1
+20160312;17:25:19;;E;Sys;CloseSession;0;;;
+20160312;17:25:28;;C;Restruct;RestructStart;1;;;
+20160312;17:25:28;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;17:25:28;;C;Restruct;RestructAnalys;3;Изменен признак проведения документа Операция.;;
+20160312;17:25:28;;C;Restruct;RestructStatus;3;Обработка журнала документов.;;
+20160312;17:25:29;;C;Restruct;RestructStatus;3;Обработка  документа: Операция;;
+20160312;17:25:30;;C;Restruct;RestructCopy;1;;;
+20160312;17:25:31;;C;Restruct;RestructAcptEnd;1;;;
+20160312;17:25:31;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;17:26:09;;E;Sys;CloseSession;0;;;
+20160312;17:26:31;;C;Restruct;RestructStart;1;;;
+20160312;17:26:31;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;17:26:31;;C;Restruct;RestructAnalys;3;Справочник Клиенты, реквизит Телефон - изменен тип.;;
+20160312;17:26:31;;C;Restruct;RestructStatus;3;Обработка справочника:  Клиенты;;
+20160312;17:26:31;;C;Restruct;RestructAnalys;3;Изменен признак проведения документа Операция.;;
+20160312;17:26:31;;C;Restruct;RestructStatus;3;Обработка журнала документов.;;
+20160312;17:26:32;;C;Restruct;RestructStatus;3;Обработка  документа: Операция;;
+20160312;17:26:33;;C;Restruct;RestructCopy;1;;;
+20160312;17:26:34;;C;Restruct;RestructAcptEnd;1;;;
+20160312;17:26:34;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;17:27:47;;E;Refs;RefWrite;2;;B/159/1;Клиенты     1
+20160312;17:27:52;;E;Sys;CloseSession;0;;;
+20160312;17:28:12;;C;Restruct;RestructSaveMD;3;;;
+20160312;17:28:13;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;17:28:14;;E;Sys;CloseSession;0;;;
+20160312;17:28:15;;C;Sys;CloseSession;0;;;
+20160312;19:38:30;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;20:22:07;;C;Restruct;RestructStart;1;;;
+20160312;20:22:07;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;20:22:08;;C;Restruct;RestructAnalys;3;Справочник Легковые_авто - новый реквизит - Цвет.;;
+20160312;20:22:08;;C;Restruct;RestructAnalys;3;Справочник Легковые_авто - новый реквизит - Номер_двигателя.;;
+20160312;20:22:08;;C;Restruct;RestructStatus;3;Обработка справочника:  Легковые_авто;;
+20160312;20:22:08;;C;Restruct;RestructAnalys;3;Справочник Грузовые_авто - новый реквизит - Цвет.;;
+20160312;20:22:08;;C;Restruct;RestructAnalys;3;Справочник Грузовые_авто - новый реквизит - Номер_двигателя.;;
+20160312;20:22:08;;C;Restruct;RestructStatus;3;Обработка справочника:  Грузовые_авто;;
+20160312;20:22:08;;C;Restruct;RestructAnalys;3;Справочник ГПАвто - удален.;;
+20160312;20:22:09;;C;Restruct;RestructAnalys;3;Новый документ - Сдача.;;
+20160312;20:22:09;;C;Restruct;RestructStatus;3;Обработка  шапки документа: Сдача;;
+20160312;20:22:10;;C;Restruct;RestructCopy;1;;;
+20160312;20:22:12;;C;Restruct;RestructAcptEnd;1;;;
+20160312;20:22:12;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;20:22:32;;E;Docs;DocNew;3;;O/178/0;Сдача автомобиля в аренду 1 12.03.2016
+20160312;20:22:49;;E;Docs;DocNotWrite;3;;O/178/0;Сдача автомобиля в аренду 1 12.03.2016
+20160312;20:22:49;;E;Sys;CloseSession;0;;;
+20160312;20:23:30;;C;Restruct;RestructSaveMD;3;;;
+20160312;20:23:30;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;20:23:37;;E;Docs;DocNew;3;;O/178/0;Сдача автомобиля в аренду 1 12.03.2016
+20160312;20:23:39;;E;Grbgs;GrbgSyntaxErr;5;Справочник<<?>>.Клиенты.ФИО : Переменная не определена (Справочник);;
+20160312;20:23:50;;E;Docs;DocNotWrite;3;;O/178/0;Сдача автомобиля в аренду 1 12.03.2016
+20160312;20:23:51;;E;Sys;CloseSession;0;;;
+20160312;20:25:22;;C;Restruct;RestructStart;1;;;
+20160312;20:25:22;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;20:25:22;;C;Restruct;RestructAnalys;3;Справочник Клиенты, реквизит ФИО - изменен признак периодичности.;;
+20160312;20:25:22;;C;Restruct;RestructAnalys;3;Справочник Клиенты, реквизит ФИО - изменен тип.;;
+20160312;20:25:22;;C;Restruct;RestructStatus;3;Обработка справочника:  Клиенты;;
+20160312;20:25:22;;C;Restruct;RestructWarn;4;Частичная потеря информации при преобразовании значений. ФИО/ФИО;;
+20160312;20:25:24;;C;Restruct;RestructCopy;1;;;
+20160312;20:25:25;;C;Restruct;RestructAcptEnd;1;;;
+20160312;20:25:25;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;20:25:47;;E;Docs;DocNew;3;;O/178/0;Сдача автомобиля в аренду 1 12.03.2016
+20160312;20:25:50;;E;Grbgs;GrbgSyntaxErr;5;Справочник<<?>>.Клиенты.ФИО : Переменная не определена (Справочник);;
+20160312;20:27:14;;E;Docs;DocWriteNew;2;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;20:27:14;;E;Sys;CloseSession;0;;;
+20160312;20:27:18;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;20:27:19;;E;Sys;CloseSession;0;;;
+20160312;20:28:30;;C;Restruct;RestructSaveMD;3;;;
+20160312;20:28:30;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;20:28:34;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;20:28:36;;E;Grbgs;GrbgSyntaxErr;5;ФИО<<?>> : Переменная не определена (ФИО);;
+20160312;20:36:39;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;20:36:39;;E;Sys;CloseSession;0;;;
+20160312;20:36:40;;C;Restruct;RestructSaveMD;3;;;
+20160312;20:36:40;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;20:36:48;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;20:37:15;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;20:37:15;;E;Sys;CloseSession;0;;;
+20160312;20:41:55;;C;Restruct;RestructSaveMD;3;;;
+20160312;20:42:00;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;20:42:11;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;20:42:18;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;20:42:20;;E;Sys;CloseSession;0;;;
+20160312;20:42:34;;C;Restruct;RestructSaveMD;3;;;
+20160312;20:42:34;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;20:42:48;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;20:42:59;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;20:43:00;;E;Sys;CloseSession;0;;;
+20160312;20:47:58;;C;Restruct;RestructSaveMD;3;;;
+20160312;20:47:58;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;20:48:04;;E;Grbgs;GrbgSyntaxErr;5;<<?>>{ : {Справочник.Клиенты.Форма.Модуль(2)}: Ожидается ключевое слово 'КонецПроцедуры' ('EndProcedure');;
+20160312;20:48:33;;E;Sys;CloseSession;0;;;
+20160312;20:48:36;;C;Restruct;RestructSaveMD;3;;;
+20160312;20:48:36;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;20:48:46;;E;Refs;RefWrite;2;;B/159/1;Клиенты     1 Сергей Минаев
+20160312;20:49:02;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;20:49:19;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;20:49:19;;E;Sys;CloseSession;0;;;
+20160312;21:01:04;;C;Restruct;RestructStart;1;;;
+20160312;21:01:04;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;21:01:04;;C;Restruct;RestructStatus;3;Изменения в метаданных не вызвали изменений данных.;;
+20160312;21:01:05;;C;Restruct;RestructCopy;1;;;
+20160312;21:01:06;;C;Restruct;RestructAcptEnd;1;;;
+20160312;21:01:07;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:02:24;;E;Refs;RefWrite;2;;B/46/1;Легковые авто     1
+20160312;21:02:31;;E;Sys;CloseSession;0;;;
+20160312;21:02:43;;C;Sys;CloseSession;0;;;
+20160312;21:02:50;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:04:59;;C;Restruct;RestructStart;1;;;
+20160312;21:04:59;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;21:04:59;;C;Restruct;RestructStatus;3;Изменения в метаданных не вызвали изменений данных.;;
+20160312;21:05:00;;C;Restruct;RestructCopy;1;;;
+20160312;21:05:02;;C;Restruct;RestructAcptEnd;1;;;
+20160312;21:05:02;;C;Sys;CloseSession;0;;;
+20160312;21:05:08;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:06:40;;C;Restruct;RestructSaveMD;3;;;
+20160312;21:06:42;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:06:46;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:06:57;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:07:12;;E;Refs;RefWrite;2;;B/46/1;Легковые авто     1 ax566hf
+20160312;21:07:18;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:22:44;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:22:44;;E;Sys;CloseSession;0;;;
+20160312;21:22:45;;C;Sys;CloseSession;0;;;
+20160312;21:25:24;;E;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:25:31;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:25:33;;E;Sys;CloseSession;0;;;
+20160312;21:25:43;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:29:12;;C;Restruct;RestructSaveMD;3;;;
+20160312;21:29:12;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:29:17;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:29:41;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:29:41;;E;Sys;CloseSession;0;;;
+20160312;21:29:44;;C;Restruct;RestructSaveMD;3;;;
+20160312;21:29:44;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:29:48;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:30:00;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:30:01;;E;Sys;CloseSession;0;;;
+20160312;21:30:55;;C;Restruct;RestructSaveMD;3;;;
+20160312;21:30:55;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:31:01;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:31:06;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:31:06;;E;Sys;CloseSession;0;;;
+20160312;21:31:50;;C;Restruct;RestructSaveMD;3;;;
+20160312;21:31:50;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:31:59;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:32:15;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:32:15;;E;Sys;CloseSession;0;;;
+20160312;21:32:17;;C;Restruct;RestructSaveMD;3;;;
+20160312;21:32:17;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:32:22;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:32:28;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:32:29;;E;Sys;CloseSession;0;;;
+20160312;21:32:46;;C;Restruct;RestructSaveMD;3;;;
+20160312;21:32:47;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:32:51;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:32:51;;E;Grbgs;GrbgSyntaxErr;5;"Предупреждение(Спр<<?>>.Клиенты.ФИО); : {Документ.Сдача.Форма.Модуль(6)}: Переменная не определена (Спр)";;
+20160312;21:32:57;;E;Sys;CloseSession;0;;;
+20160312;21:33:06;;C;Restruct;RestructSaveMD;3;;;
+20160312;21:33:06;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:33:14;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:33:14;;E;Grbgs;GrbgSyntaxErr;5;"Предупреждение(Справочник<<?>>.Клиенты.ФИО); : {Документ.Сдача.Форма.Модуль(6)}: Переменная не определена (Справочник)";;
+20160312;21:35:57;;E;Sys;CloseSession;0;;;
+20160312;21:37:10;;C;Sys;CloseSession;0;;;
+20160312;21:42:09;;E;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:42:10;;E;Sys;CloseSession;0;;;
+20160312;21:42:13;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:43:24;;C;Restruct;RestructSaveMD;3;;;
+20160312;21:43:24;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:43:29;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:44:16;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:44:16;;E;Sys;CloseSession;0;;;
+20160312;21:44:35;;C;Restruct;RestructStart;1;;;
+20160312;21:44:35;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;21:44:35;;C;Restruct;RestructAnalys;3;Справочник Клиенты, реквизит ФИО - изменен признак периодичности.;;
+20160312;21:44:35;;C;Restruct;RestructStatus;3;Обработка справочника:  Клиенты;;
+20160312;21:44:38;;C;Restruct;RestructCopy;1;;;
+20160312;21:44:39;;C;Restruct;RestructAcptEnd;1;;;
+20160312;21:44:41;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:44:45;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:45:37;;E;Refs;RefNew;2;;B/159/2;Клиенты     2 Макси Петров
+20160312;21:45:55;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:45:56;;E;Sys;CloseSession;0;;;
+20160312;21:46:52;;C;Restruct;RestructSaveMD;3;;;
+20160312;21:47:03;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:47:09;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:47:13;;E;Grbgs;GrbgRuntimeErr;5;"Спр = СоздатьОбъект(""Арендодатель""); : {Документ.Сдача.Форма.Модуль(6)}: Неудачная попытка создания объекта (Арендодатель)";;
+20160312;21:53:06;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:53:07;;E;Sys;CloseSession;0;;;
+20160312;21:53:09;;C;Restruct;RestructSaveMD;3;;;
+20160312;21:53:09;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:53:13;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:53:37;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:53:38;;E;Sys;CloseSession;0;;;
+20160312;21:54:16;;C;Restruct;RestructSaveMD;3;;;
+20160312;21:54:16;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:54:20;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:55:16;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:55:17;;E;Sys;CloseSession;0;;;
+20160312;21:55:22;;C;Restruct;RestructSaveMD;3;;;
+20160312;21:55:22;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:55:27;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:56:34;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:56:35;;E;Sys;CloseSession;0;;;
+20160312;21:57:17;;C;Restruct;RestructSaveMD;3;;;
+20160312;21:57:17;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:57:23;;E;Sys;CloseSession;0;;;
+20160312;21:57:34;;C;Restruct;RestructSaveMD;3;;;
+20160312;21:57:34;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;21:57:39;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:57:57;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;21:57:57;;E;Sys;CloseSession;0;;;
+20160312;22:18:12;;C;Restruct;RestructSaveMD;3;;;
+20160312;22:18:13;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;22:18:20;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;22:18:20;;E;Grbgs;GrbgSyntaxErr;5;"Дни = День<<?>>(ДатаДок())-День(Дата_возрата); : {Документ.Сдача.Форма.Модуль(6)}: Функция не обнаружена (День)";;
+20160312;22:18:50;;E;Sys;CloseSession;0;;;
+20160312;22:18:54;;C;Restruct;RestructSaveMD;3;;;
+20160312;22:18:54;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;22:18:59;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;22:18:59;;E;Grbgs;GrbgSyntaxErr;5;"Дни = ДатаДок<<?>>()-Дата_возрата; : {Документ.Сдача.Форма.Модуль(6)}: Функция не обнаружена (ДатаДок)";;
+20160312;22:19:06;;E;Sys;CloseSession;0;;;
+20160312;22:19:52;;C;Restruct;RestructSaveMD;3;;;
+20160312;22:19:52;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;22:19:58;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;22:20:26;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;22:20:26;;E;Sys;CloseSession;0;;;
+20160312;22:20:43;;C;Restruct;RestructSaveMD;3;;;
+20160312;22:20:43;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;22:20:47;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;22:22:30;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;22:22:30;;E;Sys;CloseSession;0;;;
+20160312;22:22:31;;C;Restruct;RestructSaveMD;3;;;
+20160312;22:22:31;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;22:22:37;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;22:22:56;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;22:22:57;;E;Sys;CloseSession;0;;;
+20160312;22:30:51;;C;Restruct;RestructSaveMD;3;;;
+20160312;22:30:51;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;22:31:00;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;22:36:17;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;22:36:17;;E;Sys;CloseSession;0;;;
+20160312;22:36:19;;C;Restruct;RestructSaveMD;3;;;
+20160312;22:36:19;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;22:36:24;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;22:36:24;;E;Grbgs;GrbgSyntaxErr;5;Если Кол_дней <<?>>!= 0 Тогда : {Документ.Сдача.Форма.Модуль(15)}: Выражение должно иметь логический тип;;
+20160312;22:36:35;;E;Sys;CloseSession;0;;;
+20160312;22:36:52;;C;Restruct;RestructSaveMD;3;;;
+20160312;22:36:52;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;22:36:56;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;22:37:19;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;22:37:19;;E;Sys;CloseSession;0;;;
+20160312;22:50:35;;C;Sys;CloseSession;0;;;
+20160312;22:50:42;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;22:59:45;;C;Sys;CloseSession;0;;;
+20160312;22:59:50;;C;Sys;OpenSession;0;НОВЫЙ СЕАНС : Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;23:03:45;;C;Restruct;RestructStart;1;;;
+20160312;23:03:45;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;23:03:46;;C;Restruct;RestructAnalys;3;Новая константа - Коэфицент_рентабельности.;;
+20160312;23:03:46;;C;Restruct;RestructAnalys;3;Новая константа - Коэфицент_инфляции.;;
+20160312;23:03:46;;C;Restruct;RestructAnalys;3;Новая константа - Коэфицент_амортизации.;;
+20160312;23:03:47;;C;Restruct;RestructCopy;1;;;
+20160312;23:03:49;;C;Restruct;RestructAcptEnd;1;;;
+20160312;23:03:49;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;23:05:10;;E;Consts;ConstWrite;2;Коэфицент_рентабельности;;
+20160312;23:06:08;;E;Consts;ConstWrite;2;Коэфицент_инфляции;;
+20160312;23:06:13;;E;Consts;ConstWrite;2;Коэфицент_рентабельности;;
+20160312;23:06:27;;E;Consts;ConstWrite;2;Коэфицент_инфляции;;
+20160312;23:06:55;;E;Consts;ConstWrite;2;Коэфицент_амортизации;;
+20160312;23:14:18;;E;Sys;CloseSession;0;;;
+20160312;23:14:21;;C;Restruct;RestructSaveMD;3;;;
+20160312;23:14:21;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;23:14:25;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:14:25;;E;Grbgs;GrbgSyntaxErr;5;"Стоимость = Автобиль<<?>>.ПолучитьАтрибут(""Стоимость_авто""); : {Документ.Сдача.Форма.Модуль(17)}: Переменная не определена (Автобиль)";;
+20160312;23:14:35;;E;Sys;CloseSession;0;;;
+20160312;23:14:51;;C;Restruct;RestructSaveMD;3;;;
+20160312;23:14:51;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;23:14:56;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:16:16;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:16:16;;E;Sys;CloseSession;0;;;
+20160312;23:16:18;;C;Restruct;RestructSaveMD;3;;;
+20160312;23:16:18;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;23:16:22;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:16:47;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:16:47;;E;Sys;CloseSession;0;;;
+20160312;23:17:17;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;23:17:22;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:17:37;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:17:37;;E;Sys;CloseSession;0;;;
+20160312;23:17:46;;C;Restruct;RestructSaveMD;3;;;
+20160312;23:17:46;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;23:17:51;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:18:20;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:18:21;;E;Sys;CloseSession;0;;;
+20160312;23:19:24;;C;Restruct;RestructStart;1;;;
+20160312;23:19:24;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;23:19:24;;C;Restruct;RestructStatus;3;Изменения в метаданных не вызвали изменений данных.;;
+20160312;23:19:25;;C;Restruct;RestructCopy;1;;;
+20160312;23:19:26;;C;Restruct;RestructAcptEnd;1;;;
+20160312;23:19:26;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;23:19:30;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:22:07;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:22:07;;E;Sys;CloseSession;0;;;
+20160312;23:22:08;;C;Restruct;RestructStart;1;;;
+20160312;23:22:08;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;23:22:08;;C;Restruct;RestructAnalys;3;Документ Сдача, реквизит Cумма_к_оплате - изменен тип.;;
+20160312;23:22:08;;C;Restruct;RestructStatus;3;Обработка  шапки документа: Сдача;;
+20160312;23:22:10;;C;Restruct;RestructCopy;1;;;
+20160312;23:22:11;;C;Restruct;RestructAcptEnd;1;;;
+20160312;23:22:11;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;23:22:15;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:22:39;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:22:39;;E;Sys;CloseSession;0;;;
+20160312;23:24:22;;C;Restruct;RestructSaveMD;3;;;
+20160312;23:24:22;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;23:24:26;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:24:26;;E;Grbgs;GrbgSyntaxErr;5;"ЭлементыФормы<<?>>.Сумма_к_оплате = Задень * Кол_дней;	 : {Документ.Сдача.Форма.Модуль(19)}: Переменная не определена (ЭлементыФормы)";;
+20160312;23:25:33;;E;Sys;CloseSession;0;;;
+20160312;23:26:44;;C;Restruct;RestructSaveMD;3;;;
+20160312;23:26:44;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;23:26:48;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:26:48;;E;Grbgs;GrbgSyntaxErr;5;"ЭтаФорма<<?>>.ЭлементыФормы.Сумма_к_оплате.Значение = Задень * Кол_дней;	 : {Документ.Сдача.Форма.Модуль(19)}: Переменная не определена (ЭтаФорма)";;
+20160312;23:27:34;;E;Sys;CloseSession;0;;;
+20160312;23:33:14;;C;Restruct;RestructSaveMD;3;;;
+20160312;23:33:17;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;23:33:22;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:33:22;;E;Grbgs;GrbgSyntaxErr;5;"Сдача<<?>>.Сумма_к_оплате.Значение = Задень * Кол_дней;	 : {Документ.Сдача.Форма.Модуль(19)}: Переменная не определена (Сдача)";;
+20160312;23:33:24;;E;Sys;CloseSession;0;;;
+20160312;23:35:35;;C;Restruct;RestructStart;1;;;
+20160312;23:35:35;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160312;23:35:35;;C;Restruct;RestructStatus;3;Изменения в метаданных не вызвали изменений данных.;;
+20160312;23:35:37;;C;Restruct;RestructCopy;1;;;
+20160312;23:35:38;;C;Restruct;RestructAcptEnd;1;;;
+20160312;23:35:38;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;23:35:43;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:35:48;;E;Grbgs;GrbgRuntimeErr;5;"Сумма_к_оплате.Значение = Задень * Кол_дней;	 : {Документ.Сдача.Форма.Модуль(19)}: Значение не представляет агрегатный объект (Значение)";;
+20160312;23:35:55;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:35:55;;E;Sys;CloseSession;0;;;
+20160312;23:36:05;;C;Restruct;RestructSaveMD;3;;;
+20160312;23:36:05;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;23:36:15;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:36:33;;E;Docs;DocNotWrite;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:36:34;;E;Sys;CloseSession;0;;;
+20160312;23:37:04;;C;Restruct;RestructSaveMD;3;;;
+20160312;23:37:04;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160312;23:37:08;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:37:27;;E;Docs;DocWrite;2;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:37:28;;E;Docs;DocPassed;2;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:37:29;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160312;23:37:38;;E;Sys;CloseSession;0;;;
+20160313;00:24:15;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160313;00:24:28;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160313;00:24:31;;E;Sys;CloseSession;0;;;
+20160313;00:24:48;;C;Restruct;RestructStart;1;;;
+20160313;00:24:48;;C;Restruct;RestructStatus;3;Анализ изменений в структуре информации.;;
+20160313;00:24:48;;C;Restruct;RestructAnalys;3;Новая константа - Директор.;;
+20160313;00:24:50;;C;Restruct;RestructCopy;1;;;
+20160313;00:24:51;;C;Restruct;RestructAcptEnd;1;;;
+20160313;00:24:51;;E;Sys;OpenSession;0;Компьютер DESKTOP-6JOU4Q2(m);;
+20160313;00:24:55;;E;Docs;DocOpen;3;;O/178/1;Сдача автомобиля в аренду 1 12.03.2016 20:27:14
+20160313;00:25:31;;E;Sys;CloseSession;0;;;
+20160313;00:26:23;;C;Restruct;RestructSaveMD;3;;;
+20160313;00:26:23;;C;Sys;CloseSession;0;;;
